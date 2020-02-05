@@ -1,6 +1,6 @@
 # demo
 
-A new Flutter application.
+A new Flutter application on weather app.
 
 ## Getting Started
 
