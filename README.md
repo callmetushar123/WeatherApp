@@ -1,4 +1,9 @@
-# demo
+# WeatherApp in Flutter
+
+![Screenshot_2020-03-11-21-46-01-62_ee702c9a9e514a1da3f7bdd1fb79708b](https://user-images.githubusercontent.com/31562363/76439089-e2146400-63e1-11ea-8dee-49577f36e09d.png)
+![Screenshot_2020-03-11-21-45-58-22_ee702c9a9e514a1da3f7bdd1fb79708b](https://user-images.githubusercontent.com/31562363/76439094-e3de2780-63e1-11ea-98f6-5ae58eb363ad.png)
+![Screenshot_2020-03-11-21-45-35-52_ee702c9a9e514a1da3f7bdd1fb79708b](https://user-images.githubusercontent.com/31562363/76439097-e50f5480-63e1-11ea-9de7-58486c344d2c.png)
+
 
 A new Flutter application on weather app.
 
